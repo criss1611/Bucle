@@ -15,7 +15,7 @@ int main()
             {
                 if (i==0||j==0||i==tamanoCuadrado-1||j==tamanoCuadrado-1)
                 {
-                    printf(" + ");
+                    printf(" holiiiiiiiiiiii guapis :p ");
                 }
                 else{
                     printf("   ");
@@ -23,7 +23,7 @@ int main()
                 
                 
             }
-            printf("\n");
+            printf("holiiiiiiiiiiii guapis :p");
         }
     
     return 0;
