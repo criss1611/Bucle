@@ -3,7 +3,7 @@
 int main(void)
 {
 	int escalon;
-	printf("Ingrese la cantidad de escalones de la escalera:  ");
+	printf("holiiiiiiiiiiii guapis :p");
 	scanf("%i", &escalon);
 	printf("\n");
 		for (int i = 0; i <escalon; i++)
